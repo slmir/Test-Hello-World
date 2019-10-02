@@ -1,6 +1,0 @@
-C:\Users\Student\Documents\РТ5-31 Мирсонов пробный\Hello world\Hello world 2\bin\Debug\Hello world 2.exe.config
-C:\Users\Student\Documents\РТ5-31 Мирсонов пробный\Hello world\Hello world 2\bin\Debug\Hello world 2.exe
-C:\Users\Student\Documents\РТ5-31 Мирсонов пробный\Hello world\Hello world 2\bin\Debug\Hello world 2.pdb
-C:\Users\Student\Documents\РТ5-31 Мирсонов пробный\Hello world\Hello world 2\obj\Debug\Hello world 2.csproj.CoreCompileInputs.cache
-C:\Users\Student\Documents\РТ5-31 Мирсонов пробный\Hello world\Hello world 2\obj\Debug\Hello world 2.exe
-C:\Users\Student\Documents\РТ5-31 Мирсонов пробный\Hello world\Hello world 2\obj\Debug\Hello world 2.pdb
